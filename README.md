@@ -1,2 +1,2 @@
 # Demo
-To learn git hub
+To learn git hub commands
